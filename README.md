@@ -1,2 +1,2 @@
-# terrasseta
+# Terrasseta Project
 Terrasseta Project
